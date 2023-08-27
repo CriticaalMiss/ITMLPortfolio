@@ -21,7 +21,7 @@ This Portfolio is a demonstration of various machine learning techniques.
 
 ### Unsupervised Learning Technique
 3. [K-Means](KMeans/KMeans.ipynb)
-
+- The K-Means model uses an unsupervised learning approach and a K-Means model to find patterns among the data. The unsupervised learning works to sort uncategorised data. K-Means clusters the data (in this case 3 clusters) then compacts the data by minimising the sum of squared distances between data points and the assigned centroids within a cluster.
 
 ### Essay
 5. ["Privacy in the Age of AI: Navigating the Ethical Dimensions of Machine Learning"](https://cgsacteduau.sharepoint.com/:w:/s/cgssharedfolders/EUXQQX9EqkJHjGtfgLm9FZUBhERSWiLO6QvOHTzJQBDhNg?e=xGetKJ)
