@@ -22,7 +22,7 @@ This Portfolio is a demonstration of various machine learning techniques.
 
 ### Unsupervised Learning Technique
 3. [K-Means](KMeans/KMeans.ipynb)
-- The K-Means model uses an unsupervised learning approach and a K-Means model to find patterns among the data. The unsupervised learning works to sort uncategorised data. K-Means clusters the data (in this case 3 clusters) then compacts the data by minimising the sum of squared distances between data points and the assigned centroids within a cluster.
+    - The K-Means model uses an unsupervised learning approach and a K-Means model to find patterns among the data. The unsupervised learning works to sort uncategorised data. K-Means clusters the data (in this case 3 clusters) then compacts the data by minimising the sum of squared distances between data points and the assigned centroids within a cluster.
   
 ### Reinforcement Learning
 4. [CartPole](CartPole/CartPole-v1.ipynb)
