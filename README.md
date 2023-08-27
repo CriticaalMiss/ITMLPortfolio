@@ -15,7 +15,7 @@ This Portfolio is a demonstration of various machine learning techniques.
 ## Project Options
 
 ### Supervised Learning Techniques
-1. [Student Grade Predictor](Student-Grade-PredictorGP.ipynb) 
+1. [Student Grade Predictor](Student-Grade-Predictor/GP.ipynb) 
     - The Grade Predictor Model uses a linear regression model to predict the final grade based on different customisable categories. The linear regression model is trained using a train set within the certain portion of the dataset to a high enough accuracy to then test out the model. It uses multiple libraries, Numpy, Pandas, matplotlib, scikit-learn intro, scikit-learn tut and pickle. Linear regression works by looking for a "line of best fit" or a correlation among a set of data. It presents the result on a scatterplot graph.
 2. [K-NN Predictor Diabetes](KNN-Predictor-Diabetes/KNN-Predict.ipynb)
    - Uses a dataset of diabetic patients to find correlations between certain factors. The K-NN model is used in this case to handel categorised data. We choose a K value (in this case 11) and then finds the nearest K members around a random query point. The goal is to take these "voting members" and make a prediction based on their positions and data. K in most instances must be an odd number to avoid specific cases where an even amount would lead to a "tie" in the voting process.
