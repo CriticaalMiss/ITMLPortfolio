@@ -18,10 +18,15 @@ This Portfolio is a demonstration of various machine learning techniques.
 1. [Student Grade Predictor](Student-Grade-PredictorGP.ipynb) 
     - The Grade Predictor Model uses a linear regression model to predict the final grade based on different customisable categories. The linear regression model is trained using a train set within the certain portion of the dataset to a high enough accuracy to then test out the model. It uses multiple libraries, Numpy, Pandas, matplotlib, scikit-learn intro, scikit-learn tut and pickle. Linear regression works by looking for a "line of best fit" or a correlation among a set of data. It presents the result on a scatterplot graph.
 2. [K-NN Predictor Diabetes](KNN-Predictor-Diabetes/KNN-Predict.ipynb)
+   - Uses a dataset of diabetic patients to find correlations between certain factors. The K-NN model is used in this case to handel categorised data. We choose a K value (in this case 11) and then finds the nearest K members around a random query point. The goal is to take these "voting members" and make a prediction based on their positions and data. K in most instances must be an odd number to avoid specific cases where an even amount would lead to a "tie" in the voting process.
 
 ### Unsupervised Learning Technique
 3. [K-Means](KMeans/KMeans.ipynb)
 - The K-Means model uses an unsupervised learning approach and a K-Means model to find patterns among the data. The unsupervised learning works to sort uncategorised data. K-Means clusters the data (in this case 3 clusters) then compacts the data by minimising the sum of squared distances between data points and the assigned centroids within a cluster.
+  
+### Reinforcement Learning
+4. [CartPole](CartPole/CartPole-v1.ipynb)
+   - Reinforcement learning works by having an agent take an action in an evironment and depending and how the action resolves gets a reward. Reinforcement learning works by running multiple generations with this agent-reward cycle to eventually produce a "trained" agent that successfully performs the action after being rewarded and passing down information after each generation. It works in a similar function to evolution. 
 
 ### Essay
 5. ["Privacy in the Age of AI: Navigating the Ethical Dimensions of Machine Learning"](https://cgsacteduau.sharepoint.com/:w:/s/cgssharedfolders/EUXQQX9EqkJHjGtfgLm9FZUBhERSWiLO6QvOHTzJQBDhNg?e=xGetKJ)
