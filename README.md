@@ -42,6 +42,7 @@ This Portfolio is a demonstration of various machine learning techniques.
 
 ## Further Reading
 
+- [Introduction to AI - Course Guide](https://cgsacteduau.sharepoint.com/:w:/s/cgssharedfolders/EUlW1KFBKzJGskD936SUUCMBLgqp_OeB3nzkrVs3cELybA?e=lFQruw)
 - [What is Machine Learning](https://www.mathworks.com/discovery/machine-learning.html)
 - [Understanding Machine Learning & Deep Learning](https://dltlabs.medium.com/understanding-machine-learning-deep-learning-f5aa95264d61)
 - [Q-Learning Algorithm](https://aleksandarhaber.com/q-learning-in-python-with-tests-in-cart-pole-openai-gym-environment-reinforcement-learning-tutorial/)
