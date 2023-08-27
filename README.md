@@ -29,7 +29,7 @@ This Portfolio is a demonstration of various machine learning techniques.
    - Reinforcement learning works by having an agent take an action in an evironment and depending and how the action resolves gets a reward. Reinforcement learning works by running multiple generations with this agent-reward cycle to eventually produce a "trained" agent that successfully performs the action after being rewarded and passing down information after each generation. It works in a similar function to evolution. 
 
 ### Essay
-5. ["Privacy in the Age of AI: Navigating the Ethical Dimensions of Machine Learning"](Privacy%in%the%Age%of%AI%Navigating%the%Ethical%Dimensions%of%Machine Learning%-%Google%Docs.pdf)
+5. ["Privacy in the Age of AI: Navigating the Ethical Dimensions of Machine Learning"]((https://github.com/CriticaalMiss/ITMLPortfolio/blob/main/Privacy%20in%20the%20Age%20of%20AI%20Navigating%20the%20Ethical%20Dimensions%20of%20Machine%20Learning%20-%20Google%20Docs.pdf))
 
 
 ## Built With
